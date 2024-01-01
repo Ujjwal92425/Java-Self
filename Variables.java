@@ -12,10 +12,5 @@ public class Variables {
         String d = "UJJWAL KUMAR ";
         System.out.println("The string is : "+ d);
 
-        
-
-        
-
-
     }
 }
