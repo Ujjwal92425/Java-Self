@@ -7,7 +7,7 @@ class Exception_1{
             System.out.println(c);
 
             int arr[] = { 10, 20, 30 };
-            System.out.println(arr[0]); 
+            System.out.println(arr[3]); 
 
             String str = "UjjwalJack";
             System.out.println(str.toUpperCase());
