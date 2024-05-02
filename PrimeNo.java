@@ -1,3 +1,3 @@
-public class PrimeNo {
+public 165 {
     
 }
